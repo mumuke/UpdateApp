@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UpdateApp</string>
+    <string name="update_download_failed">更新失败</string>
+    <string name="update_download_failed_msg">超时</string>
+    <string name="update_download_start">更新开始</string>
+    <string name="update_download_processing">更新进度</string>
+    <string name="update_download_finish">更新完成</string>
+</resources>
